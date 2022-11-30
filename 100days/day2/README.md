@@ -37,4 +37,3 @@
 4. Ask how many people to split the bill
 5. Say Each peron should pay
 ```
->>>>>>> 100days
