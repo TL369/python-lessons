@@ -17,8 +17,10 @@
 
 ### Final project day: Tip Calculator (main.py)
 
-> Say Hello
-> Ask total bill
-> Ask total percentage tip
-> Ask how many people to split the bill
-> Say Each peron should pay
+```
+1. Say Hello
+2. Ask total bill
+3. Ask total percentage tip
+4. Ask how many people to split the bill
+5. Say Each peron should pay
+```
