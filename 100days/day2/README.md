@@ -2,7 +2,6 @@
 
 ## Knowledge
 
-<<<<<<< HEAD
 1. [Print function](https://www.w3schools.com/python/ref_func_print.asp)
 2. [String python](https://www.w3schools.com/python/python_strings.asp)
 3. [Python input function](https://www.w3schools.com/python/ref_func_input.asp)
@@ -16,7 +15,6 @@
 * [1.4 Exercise - Swap 2 variables value](https://replit.com/@appbrewery/day-1-4-exercise)
 
 ### Final project day1: band name generator.
-=======
 1. [Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 2. [Type Function](https://www.w3schools.com/python/ref_func_type.asp)
 3. [Operators](https://www.w3schools.com/python/python_operators.asp)
