@@ -17,7 +17,7 @@
 
 
 ### Appendix
-* [Ascii Art](https://ascii.co.uk/art/)
+* [Ascii Art](https://ascii.co.uk/art)
 
 
 
