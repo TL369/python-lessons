@@ -23,4 +23,3 @@
 
 ### [Final project day3: Tresure Island](main.py)
 
-> final project - last video
