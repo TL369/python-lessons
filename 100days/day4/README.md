@@ -1,25 +1,26 @@
-# Day3
+# Day4
 
 ## Knowledge
 
-1. [Python Conditions](https://www.w3schools.com/python/python_conditions.asp)
-2. [Count Function](https://www.w3schools.com/python/ref_list_count.asp)
-3. [Python String Lower Method](https://www.w3schools.com/python/ref_string_lower.asp)
+1. [Module](https://www.w3schools.com/python/python_modules.asp)
+2. [Lists](https://www.w3schools.com/python/python_lists.asp)
+3. [Python String split Method](https://www.w3schools.com/python/ref_string_split.asp)
 
 
 ## Exercise
 
-* [Exercise 3.1 Odd and Even](https://replit.com/@appbrewery/day-3-1-exercise#README.md)
-* [Exercise 3.2 BMI calculator 2.0](https://replit.com/@appbrewery/day-3-2-exercise#README.md)
-* [Exercise 3.3 Leap Year](https://replit.com/@appbrewery/day-3-3-exercise#README.md)
-* [Exercise 3.4 Pizza Order](https://replit.com/@appbrewery/day-3-4-exercise#README.md)
-* [Rollercoaster Machine](rollercoaster.py)
+* [Exercise 4.1 Heads or Tails](https://replit.com/@appbrewery/day-4-1-exercise#README.md)
+* [Exercise 4.2 Who's Paying](https://replit.com/@appbrewery/day-4-2-exercise#README.md)
 
 
 ### Appendix
-* [Ascii Art](https://ascii.co.uk/art)
+
+1. [Pseudorandom number generators](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators)
+2. [AskPython](https://www.askpython.com/)
+3. [Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
 
 
 
-### [Final project day3: Tresure Island](main.py)
+### [Final project day4: Rock - Paper - Scissor](main.py)
 
+>> Video 6
