@@ -11,6 +11,8 @@
 
 * [Exercise 4.1 Heads or Tails](https://replit.com/@appbrewery/day-4-1-exercise#README.md)
 * [Exercise 4.2 Who's Paying](https://replit.com/@appbrewery/day-4-2-exercise#README.md)
+* [Exercise 4.3 Treasure Map](https://replit.com/@appbrewery/day-4-3-exercise#README.md)
+
 
 
 ### Appendix
@@ -23,4 +25,3 @@
 
 ### [Final project day4: Rock - Paper - Scissor](main.py)
 
->> Video 6
