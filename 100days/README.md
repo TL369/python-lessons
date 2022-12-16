@@ -6,3 +6,5 @@
 * [Day4: Randomisation and Python Lists ](day4/README.md)
 * [Day5: For Loops, Range and Code Blocks](day5/README.md)
 * [Day6: Functions, Code blocks and While loops](day6/README.md)
+* [Day7: Hangman Project](day7/README.md)
+* [Day8: Function with inputs](day8/README.md)
