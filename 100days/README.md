@@ -8,3 +8,5 @@
 * [Day6: Functions, Code blocks and While loops](day6/README.md)
 * [Day7: Hangman Project](day7/README.md)
 * [Day8: Function with inputs](day8/README.md)
+* [Day9: Dictionaries and Nesting](day9/README.md)
+* [Day10: Function with outputs](day10/README.md)
