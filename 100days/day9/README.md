@@ -3,7 +3,7 @@
 ## Knowledge
 
 1. [Python dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
-1. [Access Nested List](https://www.learnbyexample.org/python-nested-list/)
+2. [Access Nested List](https://www.learnbyexample.org/python-nested-list/)
 
 
 ## Exercise

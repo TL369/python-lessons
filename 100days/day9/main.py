@@ -29,4 +29,5 @@ while not bidding_finished:
         bidding_finished = True
         os.system('cls')
         print(logo)
+        print(bids)
         find_highest_bidder(bids)
